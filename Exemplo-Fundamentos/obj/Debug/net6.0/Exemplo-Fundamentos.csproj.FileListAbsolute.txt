@@ -1,0 +1,15 @@
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\bin\Debug\net6.0\Exemplo-Fundamentos.exe
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\bin\Debug\net6.0\Exemplo-Fundamentos.deps.json
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\bin\Debug\net6.0\Exemplo-Fundamentos.runtimeconfig.json
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\bin\Debug\net6.0\Exemplo-Fundamentos.dll
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\bin\Debug\net6.0\Exemplo-Fundamentos.pdb
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\Exemplo-Fundamentos.csproj.AssemblyReference.cache
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\Exemplo-Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\Exemplo-Fundamentos.AssemblyInfoInputs.cache
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\Exemplo-Fundamentos.AssemblyInfo.cs
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\Exemplo-Fundamentos.csproj.CoreCompileInputs.cache
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\Exemplo-Fundamentos.dll
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\refint\Exemplo-Fundamentos.dll
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\Exemplo-Fundamentos.pdb
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\Exemplo-Fundamentos.genruntimeconfig.cache
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplo-Fundamentos\obj\Debug\net6.0\ref\Exemplo-Fundamentos.dll

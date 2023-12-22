@@ -1,0 +1,30 @@
+INTRODUCAO AO .NET
+
+https://drive.google.com/file/d/1YBybOdT9lUC8-81e8xCY-MW7-UdKOy_j/view
+
+SINTAXE E TIPOS DE DADOS EM C#
+
+https://drive.google.com/file/d/1YLYvIKpMs4d0P2YoiMsoo7aUdheX6g5k/view
+
+
+TIPOS DE OPERADORES EM C#
+
+https://drive.google.com/file/d/1ofWoOF1kjrWzNSSJZkohvGkx66ENiFbI/view
+
+OPERADORES ARITMÉTICOS
+
+https://drive.google.com/file/d/12I1sKCO4mfOFAp8wmpms_XIdR18UGEfY/view
+
+Estruturas de Repetição em C#
+https://drive.google.com/file/d/1WaanSAz00grpovXJW4mlmG7dWjMhuU2y/view
+
+ARRAY E LISTA
+https://drive.google.com/file/d/1pj26rJGtM55rtVqOyUhh4KdWODXdyfKb/view
+
+PROPRIEDADE, METODOS E CONSTRUTORES
+https://docs.google.com/presentation/d/1y4K1Yn3_fBPD2E3qfL1tYFYSmXVewcAu/edit?rtpof=true&sd=true
+
+MANIPULANDO VALORES COM C#
+https://docs.google.com/presentation/d/12xgpQrBtxFW28cStLC5WF1IiO4JCiOYK/edit#slide=id.p1
+
+

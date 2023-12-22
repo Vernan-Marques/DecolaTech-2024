@@ -1,0 +1,15 @@
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\bin\Debug\net6.0\Exemplos-Explorando.exe
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\bin\Debug\net6.0\Exemplos-Explorando.deps.json
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\bin\Debug\net6.0\Exemplos-Explorando.runtimeconfig.json
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\bin\Debug\net6.0\Exemplos-Explorando.dll
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\bin\Debug\net6.0\Exemplos-Explorando.pdb
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\Exemplos-Explorando.csproj.AssemblyReference.cache
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\Exemplos-Explorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\Exemplos-Explorando.AssemblyInfoInputs.cache
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\Exemplos-Explorando.AssemblyInfo.cs
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\Exemplos-Explorando.csproj.CoreCompileInputs.cache
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\Exemplos-Explorando.dll
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\refint\Exemplos-Explorando.dll
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\Exemplos-Explorando.pdb
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\Exemplos-Explorando.genruntimeconfig.cache
+D:\Workspace\Cursos\Bootcamp - Estagio - DIO\Exemplos-Explorando\obj\Debug\net6.0\ref\Exemplos-Explorando.dll

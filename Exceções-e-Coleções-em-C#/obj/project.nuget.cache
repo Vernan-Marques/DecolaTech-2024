@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZAEdkLPunZ3q5tDlVi4NjlsZfNRvNh46W8Vo9uVdbCj6YD+fPyfOTTPXODud0+9Yy5yOvBNkyO/iDaeo+5AbXA==",
+  "dgSpecHash": "REGMwmL+Cy8qMbpCW7LMHD5hnn4QI2sVg9vl6zR1CWlQlXiZ1F2/NQlRVVZUnA50iUQTSCEKtgOUMsuUuQ/itA==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\DecolaTech-2024\\Exceções-e-Coleções-em-C#\\Exemplos-Explorando.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Workspace\\Cursos\\DecolaTech-2024\\Exceções-e-Coleções-em-C#\\Exemplos-Explorando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARQUES\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\MARQUES\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\MARQUES\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\MARQUES\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

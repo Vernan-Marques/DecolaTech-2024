@@ -2,6 +2,7 @@
 using System.Globalization;
 
 
+new ExemploExcecao().Metodo1();
 
 
 /*
@@ -17,8 +18,9 @@ foreach (var linha in linhas)
 
 // Tratando uma Exceção
 
+
+//caso 1 - Exceção generica
 /*
-//caso 1
 try
 {
     string[] linhas = File.ReadAllLines("Arquivos/arquivo_Leitura.txt");
@@ -32,34 +34,78 @@ catch (Exception ex)
 {
     Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
 }
-*/
 
+ Console.WriteLine($"Chegou ate aqui.");
+ */
+
+// Exceção Especifica - De arquivo
 /*
-//caso 2
-try
+ try
 {
-    string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+    string[] linhas = File.ReadAllLines("Arquivos/arquivo_LeituraX.txt");
 
 foreach (var linha in linhas)
 {
     Console.WriteLine(linha);
 }
 }
-catch (FileNotFoundException ex) // Cao o erro for no arquivo
+catch (FileNotFoundException ex)
 {
     Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Arquivo não encontrado. {ex.Message}");
 }
-catch (DirectoryNotFoundException ex) // Cao o erro for na pasta
-{
-    Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Caminho da pasta não encontrado. {ex.Message}");
-}
-catch (Exception ex) // Excessão generica
+ catch (Exception ex)
 {
     Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
 }
 
-finally // Finaliza
+ Console.WriteLine($"Chegou ate aqui.");
+*/
+
+
+ // Exceção Especifica - De Diretorio ou pasta
+ /*
+ try
 {
-Console.WriteLine("Chegou até aqui.");
+    string[] linhas = File.ReadAllLines("Arquivos/novoArquivo/arquivo_Leitura.txt");
+
+foreach (var linha in linhas)
+{
+    Console.WriteLine(linha);
+}
+}
+catch (DirectoryNotFoundException ex)
+{
+    Console.WriteLine($"Ocorreu um erro na leitura do diretorio. Caminho do arquivo não encontrado. {ex.Message}");
+}
+ catch (Exception ex)
+{
+    Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
+}
+
+ Console.WriteLine($"Chegou ate aqui.");
+ */
+
+
+ // Finaly
+ /*
+ try
+{
+    string[] linhas = File.ReadAllLines("Arquivos/novoArquivo/arquivo_Leitura.txt");
+
+foreach (var linha in linhas)
+{
+    Console.WriteLine(linha);
+}
+}
+catch (DirectoryNotFoundException ex)
+{
+    Console.WriteLine($"Ocorreu um erro na leitura do diretorio. Caminho do arquivo não encontrado. {ex.Message}");
+}
+ catch (Exception ex)
+{
+    Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
+}
+finally{
+    Console.WriteLine($"Chegou ate aqui.");
 }
 */

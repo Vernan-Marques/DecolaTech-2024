@@ -2,8 +2,7 @@
 using System.Globalization;
 
 
-new ExemploExcecao().Metodo1();
-
+//new ExemploExcecao().Metodo1();
 
 /*
 // Sem exceções
@@ -86,7 +85,7 @@ catch (DirectoryNotFoundException ex)
  */
 
 
- // Finaly
+ // Finally
  /*
  try
 {
@@ -109,3 +108,37 @@ finally{
     Console.WriteLine($"Chegou ate aqui.");
 }
 */
+
+// Fila - Queue
+
+Queue<int> fila = new Queue<int>();
+
+// Enqueue - adiciona um elemento a fila
+fila.Enqueue(2); 
+fila.Enqueue(4);
+fila.Enqueue(6);
+fila.Enqueue(8);
+
+// percorrenndo uma fila
+foreach (int item in fila)
+{
+    Console.WriteLine(item);
+}
+
+// Dequeue() - Remove o primeiro item da fila
+fila.Dequeue();
+Console.WriteLine("Fila sem o primeiro elemento:");
+
+foreach (int item in fila)
+{
+    Console.WriteLine(item);
+}
+
+// Adicionei o elemento 10 a fila
+
+Console.WriteLine("Adicionei o elemento 10 a fila:");
+fila.Enqueue(10);
+foreach (int item in fila)
+{
+    Console.WriteLine(item);
+}

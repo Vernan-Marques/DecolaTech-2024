@@ -110,7 +110,7 @@ finally{
 */
 
 // Fila - Queue
-
+/*
 Queue<int> fila = new Queue<int>();
 
 // Enqueue - adiciona um elemento a fila
@@ -139,6 +139,32 @@ foreach (int item in fila)
 Console.WriteLine("Adicionei o elemento 10 a fila:");
 fila.Enqueue(10);
 foreach (int item in fila)
+{
+    Console.WriteLine(item);
+}
+*/
+
+
+Stack<int> pilha = new Stack<int>();
+
+// Adicionaando elementos
+pilha.Push(4);
+pilha.Push(6);
+pilha.Push(8);
+pilha.Push(10);
+
+foreach(int item in pilha)
+{
+    Console.WriteLine(item);
+}
+
+// Removendo elemento
+Console.WriteLine($"Removendo o elemento {pilha.Pop()} do top:");
+
+// Introduzir novo elemento a pilha: 20
+pilha.Push(20);
+
+foreach(int item in pilha)
 {
     Console.WriteLine(item);
 }

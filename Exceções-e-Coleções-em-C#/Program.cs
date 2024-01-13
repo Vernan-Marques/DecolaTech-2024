@@ -15,7 +15,7 @@ foreach (var linha in linhas)
 }
 */
 
-// Tratando uma Exceção
+// Tratando uma Exceção----------
 
 
 //caso 1 - Exceção generica
@@ -37,7 +37,9 @@ catch (Exception ex)
  Console.WriteLine($"Chegou ate aqui.");
  */
 
-// Exceção Especifica - De arquivo
+
+
+// Exceção Especifica - De arquivo----------
 /*
  try
 {
@@ -61,7 +63,8 @@ catch (FileNotFoundException ex)
 */
 
 
- // Exceção Especifica - De Diretorio ou pasta
+
+ // Exceção Especifica - De Diretorio ou pasta----------
  /*
  try
 {
@@ -85,7 +88,8 @@ catch (DirectoryNotFoundException ex)
  */
 
 
- // Finally
+
+ // Finally----------
  /*
  try
 {
@@ -109,7 +113,9 @@ finally{
 }
 */
 
-// Fila - Queue
+
+
+// Fila - Queue----------
 /*
 Queue<int> fila = new Queue<int>();
 
@@ -144,7 +150,8 @@ foreach (int item in fila)
 }
 */
 
-
+// Pilha----------
+/*
 Stack<int> pilha = new Stack<int>();
 
 // Adicionaando elementos
@@ -168,3 +175,56 @@ foreach(int item in pilha)
 {
     Console.WriteLine(item);
 }
+*/
+
+
+
+//Dictionary - Garante que cada elemento seja único. Portanto, nao pode haver repeticao desse elemento.
+
+/*
+Dictionary<string,string> estados = new Dictionary<string,string>();
+
+estados.Add("SP", "São Paulo");
+estados.Add("BA", "Bahia");
+estados.Add("MG", "Minas Gerais");
+estados.Add("PA", "Pará");
+*/
+
+
+/*
+foreach (var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+// Removendo o elemento Bahia
+Console.WriteLine("Removendo o elemento Bahia");
+estados.Remove("BA");
+
+// Alterando valor
+estados["SP"] = "São Paulo - Valor Alterado";
+
+foreach (var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+*/
+
+
+// Verificando a existencia de um item
+/*
+string chave = "BA";
+Console.WriteLine($"Verificado o elemento: {chave}");
+
+if (estados.ContainsKey(chave))
+{
+    Console.WriteLine($"Valor existente: {chave}");
+}
+else
+{
+    Console.WriteLine($"Valor não existente. È seguro adicionar a chave: {chave}");
+}
+*/
+
+//Obtendo um valor ja existente
+//Console.WriteLine(estados["MG"]);
